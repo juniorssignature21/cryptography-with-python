@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect x="50" y="40" width="200" height="120" fill="#4ECDC4" stroke="#333" stroke-width="2"/>
+  <polygon points="150,30 180,80 120,80" fill="#FFE66D" stroke="#333" stroke-width="2"/>
+  <text x="150" y="110" font-size="20" text-anchor="middle" fill="#333" font-weight="bold">Rectangle &amp; Triangle</text>
+</svg>
